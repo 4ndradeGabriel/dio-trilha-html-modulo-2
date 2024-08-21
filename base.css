@@ -5,6 +5,8 @@ body {
     background-color: #f1f1f1;
     display: flex;
     justify-content: center;
+    font-size: 24px;
+    font-weight: 400;
 }
 
 .wrapper {
@@ -20,19 +22,63 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: #4e352b;
+    color: white;
     padding: 10px 20px 0px;
 }
+
+.menu .logo {
+    margin: 30px;
+    display: block;
+}
+
+.menu ul {
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+.menu ul li {
+    margin-top: 20px;
+}
+
+.menu ul li a {
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: #fff9f2;
     min-height: 150px;
 }
 .content {
     background-color: white;
     min-height: 300px;
     padding: 20px;
+
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color: #fff9f2;
     min-height: 150px;
+}
+
+.footer p {
+    margin-left: 20px;
+}
+
+table td{
+    width: 220px;
+}
+table thead{
+    background-color: #4e352b;
+    color: white;
+}
+table tbody {
+    text-align: center;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #e7e2d3;
+}
+table tbody tr:nth-child(odd) {
+    background-color: #fff9f2;
 }
