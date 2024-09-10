@@ -72,3 +72,8 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
 Bora pra cima!
+
+## Visualização
+
+**[Vizualize a página Online](https://4ndradegabriel.github.io/dio-trilha-html-modulo-2/)**
+
