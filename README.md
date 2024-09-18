@@ -75,5 +75,5 @@ Bora pra cima!
 
 ## Visualização
 
-**[Vizualize a página Online](https://4ndradegabriel.github.io/dio-trilha-html-modulo-2/)**
+**[Visualize a página Online](https://4ndradegabriel.github.io/dio-trilha-html-modulo-2/)**
 
